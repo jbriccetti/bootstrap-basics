@@ -11,6 +11,8 @@ _for now, for mac_
     `npm install http-server -g`
 - Create account on **Github** https://github.com
 - Basics of git (pre-installed on mac)
+    `git config --global user.name "Your Name"`
+    `git config --global user.email you@example.com`
     - Create a README.md file
         - Learn about **markdown** syntax 
             - https://www.markdownguide.org/cheat-sheet/
