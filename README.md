@@ -15,14 +15,14 @@ _for now, for mac_
         - Learn about **markdown** syntax 
             - https://www.markdownguide.org/cheat-sheet/
             - https://dillinger.io/
-    - create a [gitignore](https://www.pluralsight.com/guides/how-to-use-gitignore-file) 
+    - create a [gitignore](https://www.pluralsight.com/guides/how-to-use-gitignore-file)
+    - package.json files https://docs.npmjs.com/files/package.json
+        - semantic versioning 
 - Basic of how the web works
     - Run web server
     `http-server ./[yourfolder] -p 1337`
 - Basics of HTML
-- HTML Templates
-    - html5boilerplate https://html5boilerplate.com/
-    `npm install html5-boilerplate`
+- HTML Template
 - Basics of CSS
 - CSS Frameworks
     - https://getbootstrap.com/
